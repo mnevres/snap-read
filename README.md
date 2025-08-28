@@ -80,7 +80,7 @@ Seçili alanın ekran görüntüsünü alabilir, fosforlu kalem ile vurgulama ya
 Programın en güncel sürümünü aşağıdaki bağlantıdan güvenle indirebilirsiniz.  
 Kurulum dosyası (`setup.exe` veya `.rar`), programı bilgisayarınıza kolayca kurmanızı sağlar.
 
-[**>> En Son Sürümü İndir <<**](https://github.com/mnevres/MN-SnapRead/releases/latest)
+[**>> En Son Sürümü İndir <<**](https://github.com/mnevres/snap-read/releases/latest)
 
 ---
 
