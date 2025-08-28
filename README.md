@@ -29,9 +29,9 @@ Capture any region of your screen, highlight with a marker (visible on light/dar
 
 ### 🖼️ Screenshots
 
-| Capture & Highlight | Annotate with Text & Arrows |
-| :-----------------: | :-------------------------: |
-| ![Highlight Example](snap-1.png) | ![Text Example](snap-2.png) |
+| Capture & Highlight | Annotate with Text & Arrows | OCR Example |
+| :-----------------: | :-------------------------: | :-------------------------: |
+| ![Highlight Example](snap-1.png) | ![Text Example](snap-2.png) | ![Text Example](snap-3.png) |
 
 ### 🚀 Download
 
@@ -71,9 +71,9 @@ Seçili alanın ekran görüntüsünü alabilir, fosforlu kalem ile vurgulama ya
 
 ### 🖼️ Ekran Görüntüleri
 
-| Yakalama & Fosforlu Kalem | Metin & Ok ile Düzenleme |
-| :-----------------------: | :----------------------: |
-| ![Highlight Örneği](snap-1.png) | ![Text Örneği](snap-2.png) |
+| Yakalama & Fosforlu Kalem | Metin & Ok ile Düzenleme | Resimden metine dönüştürme (OCR) |
+| :-----------------------: | :----------------------: | :----------------------: |
+| ![Highlight Örneği](snap-1.png) | ![Text Örneği](snap-2.png) | ![Resimden metine dönüştürme](snap-3.png) |
 
 ### 🚀 İndirme
 
