@@ -37,7 +37,7 @@ Capture any region of your screen, highlight with a marker (visible on light/dar
 
 You can download the latest version safely from the link below. The setup file (`.exe` or `.rar`) allows you to install the program easily.
 
-[**>> Download the Latest Version <<**](https://github.com/mnevres/MN-SnapRead/releases/latest)
+[**>> Download the Latest Version <<**](https://github.com/mnevres/snap-read/releases/latest)
 
 
 ## Feedback and Support
