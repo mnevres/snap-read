@@ -31,7 +31,7 @@ Capture any region of your screen, highlight with a marker (visible on light/dar
 
 | Capture & Highlight | Annotate with Text & Arrows |
 | :-----------------: | :-------------------------: |
-| ![Highlight Example](highlight.png) | ![Text Example](text.png) |
+| ![Highlight Example](snap-1.png) | ![Text Example](snap-2.png) |
 
 ### 🚀 Download
 
@@ -50,7 +50,7 @@ Your feedback, suggestions, or any bugs you encounter are very valuable to me. Y
 * **For Bug Reports and Technical Requests (Recommended):**  
   Report bugs with details or request features in the "Issues" section of the project's GitHub page:
 
-  * [» SnapRead Issues Page](https://github.com/mnevres/MN-SnapRead/issues)
+  * [» SnapRead Issues Page](https://github.com/mnevres/snap-read/issues)
 
 ---
 
@@ -73,7 +73,7 @@ Seçili alanın ekran görüntüsünü alabilir, fosforlu kalem ile vurgulama ya
 
 | Yakalama & Fosforlu Kalem | Metin & Ok ile Düzenleme |
 | :-----------------------: | :----------------------: |
-| ![Highlight Örneği](highlight.png) | ![Text Örneği](text.png) |
+| ![Highlight Örneği](snap-1.png) | ![Text Örneği](snap-2.png) |
 
 ### 🚀 İndirme
 
